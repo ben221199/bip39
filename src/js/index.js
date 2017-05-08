@@ -1176,6 +1176,13 @@
                 DOM.bip44coin.val(1);
             },
         },
+        {
+            name: "Gulden",
+            onSelect: function() {
+                network = bitcoin.networks.gulden;
+                DOM.bip44coin.val(87);
+            },
+        }
     ]
 
     var clients = [
