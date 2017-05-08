@@ -80,7 +80,7 @@ bitcoin.networks.gulden = {
     public: 0x0488b21e,
     private: 0x0488ade4
   },
-  pubKeyHash: 0x38,
+  pubKeyHash: 0x26,
   //scriptHash: 0x10,
   wif: 0xa6,
 };
