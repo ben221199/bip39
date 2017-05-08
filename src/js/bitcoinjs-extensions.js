@@ -75,3 +75,12 @@ bitcoin.networks.peercoin = {
   wif: 0xb7,
 };
 
+bitcoin.networks.gulden = {
+  bip32: {
+    public: 0x0488b21e,
+    private: 0x0488ade4
+  },
+  pubKeyHash: 0x38,
+  //scriptHash: 0x10,
+  wif: 0xa6,
+};
