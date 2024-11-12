@@ -2993,7 +2993,7 @@
             },
         },
         {
-            name: "LBC - Library Credits",
+            name: "LBC - LBRY Credits",
             onSelect: function() {
                 network = libs.bitcoin.networks.lbry;
                 setHdCoin(140);
